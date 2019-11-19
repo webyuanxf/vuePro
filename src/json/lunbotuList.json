@@ -1,0 +1,8 @@
+{
+    "message":[
+        { "url":"http://www.tmooc.cn", "img":"/src/images/lunbo/banner1.png"},
+        { "url":"http://www.tmooc.cn", "img":"/src/images/lunbo/banner2.png"},
+        { "url":"http://www.tmooc.cn", "img":"/src/images/lunbo/banner3.png"},
+        { "url":"http://www.tmooc.cn", "img":"/src/images/lunbo/banner4.png"}    ],
+    "status":"0"
+}
